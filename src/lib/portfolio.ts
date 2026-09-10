@@ -8,7 +8,6 @@ import solarRoof1 from "@/assets/solar-rooftop-install-1.jpg.asset.json";
 import solarRoof2 from "@/assets/solar-rooftop-install-2.jpg.asset.json";
 import inverterUnit from "@/assets/solar-inverter-unit.jpg.asset.json";
 import inverterController from "@/assets/solar-inverter-controller.jpg.asset.json";
-import inverterDisplay from "@/assets/solar-inverter-display.jpg.asset.json";
 import dcWiring from "@/assets/solar-dc-wiring-protection.jpg.asset.json";
 import archDrawingSet from "@/assets/arch-drawing-set.jpg.asset.json";
 import archMosqueModel from "@/assets/arch-mosque-model.jpg.asset.json";
@@ -75,12 +74,6 @@ export const GALLERY: GalleryItem[] = [
     alt: "Wall-mounted black switches and socket outlets on a marble finish wall",
     caption: "Switches and socket outlets",
     category: "Electrical",
-  },
-  {
-    src: inverterDisplay.url,
-    alt: "Wall-mounted inverter with digital display panel",
-    caption: "Inverter mounted and commissioned",
-    category: "Solar & Inverter",
   },
   {
     src: archMosqueModel.url,
